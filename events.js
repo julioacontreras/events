@@ -1,10 +1,9 @@
-define(["underscore", "backbone"], function(_,Backbone) {
     if(!window.events){
         window.events = {};
         _.extend(window.events, Backbone.Events);
     }
 
-    return {
+    var Events = {
         listenTo(id, func){
             window.events.on(id, func);
         },
@@ -18,4 +17,5 @@ define(["underscore", "backbone"], function(_,Backbone) {
             return new Date().valueOf();
         }
     };
-});
+
+    return Events;
