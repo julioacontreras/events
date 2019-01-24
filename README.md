@@ -4,9 +4,8 @@ Send and receive information by events regardless of the framework you use.
 
 ## Depdencies
 
-- Backbone http://backbonejs.org/
-- RequireJS https://requirejs.org/
-
+  [Backbone](http://ivannikolic.com)
+  [RequireJS](https://requirejs.org/)
 
 ## Install
 
@@ -61,4 +60,4 @@ return: IdEvent
 
 ## License
 
-MIT © [Ivan Nikolić](http://ivannikolic.com)
+MIT
