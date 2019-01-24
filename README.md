@@ -5,6 +5,7 @@ Send and receive information by events regardless of the framework you use.
 ## Depdencies
 
   [Backbone](http://ivannikolic.com)
+  
   [RequireJS](https://requirejs.org/)
 
 ## Install
