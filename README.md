@@ -6,11 +6,6 @@ Send and receive information by events indepedent of the framework you use.
 
   [Backbone](http://ivannikolic.com)
 
-## Install
-
-```sh
-bower install events-js --save
-```
 
 ## Usage
 
