@@ -1,6 +1,6 @@
 # Events JS
 
-Send and receive information by events regardless of the framework you use.
+Send and receive information by events indepedent of the framework you use.
 
 ## Depdencies
 
